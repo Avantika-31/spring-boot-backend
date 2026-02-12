@@ -1,2 +1,2 @@
 # spring-boot-backend
-a user registration backend file using spring
+a user registration backend file using spring-boot
